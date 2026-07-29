@@ -209,7 +209,6 @@ Additional descriptive and exploratory figures are created with:
 ## Reproducibility notes
 
 - Run all scripts from the repository root.
-- Folder and file names are case-sensitive on Linux and in many secure computing environments.
 - Some scripts create their output directories automatically, whereas others assume that the required directories already exist.
 - Files in `data/processed/fdz_outputs/` must retain the filenames referenced in the scripts unless all corresponding paths are updated.
 - Some scripts represent alternative or sensitivity analyses and are not required for reproduction of the primary estimates.
@@ -217,7 +216,7 @@ Additional descriptive and exploratory figures are created with:
 
 ## Technical reference files
 
-Two technical reference files accompany the code:
+Three technical reference files accompany the code:
 
 ### `DWD_Warning_Cell_to_Harmonized_AGS_Crosswalk.xlsx`
 
@@ -244,6 +243,10 @@ It includes:
 - included ICD-10 codes;
 - excluded ICD-10 codes; and
 - whether each variable was included in the final analyses.
+
+## `public_holidays_2000-2022.csv´
+
+This file contains all nationwide and state-specific statutory public holidays in Germany from 2000 through 2022, including the date, holiday name, and applicable federal state or region. The file was used to construct the district-day public-holiday indicator included in the time-series models.
 
 ## Data availability
 
