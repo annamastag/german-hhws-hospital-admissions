@@ -250,7 +250,7 @@ This file contains all nationwide and state-specific statutory public holidays i
 
 ## Data availability
 
-The restricted hospital data are not publicly available and can be accessed only through the Research Data Centers of the Federal Statistical Office and the statistical offices of the Länder under the applicable access and disclosure-control procedures.
+The restricted hospital data are not publicly available and can be accessed only through the Research Data Centers of the Federal Statistical Office and the statistical offices of the Fedeal States under the applicable access and disclosure-control procedures.
 
 Meteorological data, official heat-warning data, administrative boundary data, and population data were obtained from the publicly accessible official sources cited in the associated thesis or publication. Access and reuse remain subject to the respective providers' terms of use.
 
