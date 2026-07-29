@@ -235,7 +235,7 @@ It includes:
 - excluded ICD-10 codes; and
 - whether each variable was included in the final analyses.
 
-### `public_holidays_2000-2022.csv`
+### `Public_Holidays_2000-2022.csv`
 
 This file contains all nationwide and state-specific statutory public holidays in Germany from 2000 through 2022, including the date, holiday name, and applicable federal state or region. The file was used to construct the district-day public-holiday indicator included in the time-series models.
 
