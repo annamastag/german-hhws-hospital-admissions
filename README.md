@@ -21,7 +21,7 @@ project-root/
 ├── README.md
 ├── DWD_Warning_Cell_to_Harmonized_AGS_Crosswalk.xlsx
 ├── ICD10_Outcome_Variable_Dictionary.pdf
-├── Public_Holidays_2000-2022
+├── Public_Holidays_2000-2022.csv
 ├── r/
     ├── 01_exposure_preparation/
     ├── 02_data_assembly_and_predictor_selection/
