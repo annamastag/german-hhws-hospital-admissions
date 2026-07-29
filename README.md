@@ -21,21 +21,12 @@ project-root/
 ├── README.md
 ├── DWD_Warning_Cell_to_Harmonized_AGS_Crosswalk.xlsx
 ├── ICD10_Outcome_Variable_Dictionary.pdf
+├── Public_Holidays_2000-2022
 ├── r/
-│   ├── 01_exposure_preparation/
-│   ├── 02_data_assembly_and_predictor_selection/
-│   ├── 03_random_forest_models/
-│   ├── 04_fdz_input_preparation/
-│   ├── 05_fdz_analyses/
-│   └── 06_fdz_output_processing/
-├── data/
-│   ├── raw/
-│   ├── intermediate/
-│   ├── processed/
-│   ├── external/
-│   └── restricted/
-└── outputs/
-    ├── random_forest_models/
+    ├── 01_exposure_preparation/
+    ├── 02_data_assembly_and_predictor_selection/
+    ├── 03_random_forest_models/
+    ├── 04_fdz_input_preparation/
     ├── 05_fdz_analyses/
     └── 06_fdz_output_processing/
 ```
